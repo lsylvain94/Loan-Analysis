@@ -26,7 +26,7 @@ To analyze loan performance and identify patterns that can help financial instit
 ---
 
 ## 📊 Dashboard Preview
-![Overview](visuals/overview.png)
+![Overview](visuals/LoanDashboard)
 
 ---
 
